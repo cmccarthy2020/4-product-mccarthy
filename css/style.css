@@ -88,19 +88,19 @@ a {
 
 /* First image (Logo. Full height) */
 .bgimg-1 {
-    background-image: url("/img/cleveland%20golf%209.jpg");
+    background-image: url("/img/clevelandgolf9.jpg");
     min-height: 100%;
 }
 
 /* Second image (Portfolio) */
 .bgimg-2 {
-    background-image: url("/img/cleveland%20golf%202.jpg");
+    background-image: url("/img/clevelandgolf2.jpg");
     min-height: 400px;
 }
 
 /* Third image (Contact) */
 .bgimg-3 {
-    background-image: url("/img/cleveland%20golf%209.jpg");
+    background-image: url("/img/clevelandgolf9.jpg");
     min-height: 400px;
 }
 
